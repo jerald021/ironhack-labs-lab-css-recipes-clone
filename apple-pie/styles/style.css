@@ -1,0 +1,31 @@
+/* *{
+    font-size: 25px;
+} */
+#title{
+    background-image:url(/apple-pie/images/apple-pie.jpg);
+    background-repeat: no-repeat;
+    width:80%;
+    height: 100px;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    padding: 150px 80px;
+    margin: 5px;
+}
+.text{
+    margin: 20px;
+    padding: 35px 70px;
+}
+.text li{
+    list-style-type: decimal;
+    margin: 6px 0px 5px 70px;
+}
+.preparation{
+    margin-left: 35%;
+}
+.title{
+    margin: 50px 40px;
+}
+.hr-style{
+    width: 95%;
+}
